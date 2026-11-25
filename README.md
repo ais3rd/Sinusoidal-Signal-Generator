@@ -23,3 +23,6 @@ Try changing `fs` relative to `f` to see the effect of sampling rate and aliasin
 
 ## Build
 Open `Project1.dproj` in Delphi (RAD Studio, Community Edition works) and run it. It needs the VCL and TeeChart.
+
+## License
+Released under the [MIT License](LICENSE).
