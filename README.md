@@ -2,6 +2,8 @@
 
 A Delphi VCL app that generates and plots discrete sine and cosine signals, for learning digital signal processing basics.
 
+![Discrete sine wave plot](screenshot.png)
+
 ## Formula
 The continuous time `t` is replaced with `n / fs` to get a sampled, digital signal:
 
